@@ -10,7 +10,7 @@ This project allows you to detect static ASL letters and numbers from webcam inp
 ## ⚡ Features
 
 - ✅ Real-time hand tracking and detection
-- ✅ Supports static ASL letters and digits
+- ✅ Supports static ASL letters
 - ✅ Uses MediaPipe for robust 21-point hand landmark detection
 - ✅ Feature normalization for higher accuracy
 - ✅ Modular code (easy to extend to more gestures or dynamic signs)
